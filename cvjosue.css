@@ -1,0 +1,127 @@
+fieldset{
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: -280px;
+    background-color: rgb(120, 20, 20);
+    border: none;
+}
+
+h5{
+    color:white;
+    text-transform: uppercase;
+    margin: -2px;
+    position: relative;
+    left: 250px;
+}
+p#web{
+    color: white;
+    position: relative;
+    left: 290px;
+    line-height: 1px;
+}
+img{
+width: 150px;
+height: 150px;
+position: relative;
+left: 300px;
+}
+section[id="width"]{
+    background-color:#000;
+    color: white;
+    margin-right: -12px;
+    margin-left: -12px;
+    color: rgb(212, 198, 179);
+}
+address[id="fast"]{
+    position: relative;
+    left: 300px;
+    bottom: 10px;
+}
+span{
+    position: relative;
+    left: 740px;
+    bottom: 28px;
+}
+address{
+    position: relative;
+    bottom: -9px;
+}
+p{
+    color: rgb(212, 198, 179);
+    line-height: 1px;
+}
+li[id="king"]{
+    line-height: 15px;
+    position: relative;
+    right: 18px;
+    color: rgb(212, 198, 179);
+}
+h2#bold{
+    background-color: rgb(194, 160, 119);
+    margin-right: 480px;
+    margin-left: -12px;
+    text-align: left;
+    text-orientation: sideways-right;
+    
+}
+fieldset[id="super"]{
+    background-color: white;
+    position: relative;
+    bottom: 365px;
+    left: 311px;
+    margin-left: 50px;
+}
+h2[id="bolder"]{
+    background-color: rgb(209, 175, 135);
+    margin-right: 15px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 5px;
+    text-align: inherit;
+}
+
+footer[id="cool"]{
+    position: absolute;
+    bottom: -255px;
+    left: 460px;
+    padding: 20px 12px 12px 12px;
+
+}
+img[src="./Images/th (6).jpeg"]{
+    width: 30px;
+    height: 30px;
+}
+img[src="./Images/th (5).jpeg"]{
+    width: 30px;
+    height: 30px;
+}
+img[src="./Images/th (4).jpeg"]{
+    width: 30px;
+    height: 30px;
+}
+p#bottom{
+    position: relative;
+    top: 15px;
+    left: 280px;
+    bottom: 100px;
+}
+
+footer{
+    position: absolute;
+    bottom: -275px;
+    left: 440px;
+    padding: 20px 12px 12px 12px;
+
+}
+ul#bien{
+   font-weight: normal;
+}
+h3{
+    position: relative;
+    left: 12px;
+}
+p[id="less"]{
+    position: relative;
+    left: 12px; 
+    color: #000;
+}
